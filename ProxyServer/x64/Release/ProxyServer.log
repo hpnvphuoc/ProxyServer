@@ -1,0 +1,18 @@
+﻿Build started 6/30/2019 12:06:44 PM.
+     1>Project "C:\Users\COMPUTER\Desktop\DA_Socket\src\ProxyServer\ProxyServer\ProxyServer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\ProxyServer.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt ProxyServer.cpp
+         ProxyServer.cpp
+     1>ProxyServer.cpp(212): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\COMPUTER\Desktop\DA_Socket\src\ProxyServer\x64\Release\ProxyServer.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\COMPUTER\Desktop\DA_Socket\src\ProxyServer\x64\Release\ProxyServer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\COMPUTER\Desktop\DA_Socket\src\ProxyServer\x64\Release\ProxyServer.lib" /MACHINE:X64 x64\Release\ProxyServer.res
+         x64\Release\ProxyServer.obj
+         x64\Release\stdafx.obj
+         Generating code
+         Finished generating code
+         ProxyServer.vcxproj -> C:\Users\COMPUTER\Desktop\DA_Socket\src\ProxyServer\x64\Release\ProxyServer.exe
+     1>Done Building Project "C:\Users\COMPUTER\Desktop\DA_Socket\src\ProxyServer\ProxyServer\ProxyServer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.85
